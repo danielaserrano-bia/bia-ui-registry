@@ -3,12 +3,12 @@
   "type": "component",
   "files": [
     {
-      "path": "src/components/ui/button.tsx",
-      "target": "components/ui/button.tsx"
+      "url": "https://raw.githubusercontent.com/USUARIO/bia-ui-registry/main/src/components/ui/button.tsx",
+      "target": "src/components/ui/button.tsx"
     },
     {
-      "path": "src/lib/utils.ts",
-      "target": "lib/utils.ts"
+      "url": "https://raw.githubusercontent.com/USUARIO/bia-ui-registry/main/src/lib/utils.ts",
+      "target": "src/lib/utils.ts"
     }
   ],
   "dependencies": [
