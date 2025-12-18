@@ -3,18 +3,9 @@
   "type": "component",
   "files": [
     {
-      "url": "https://raw.githubusercontent.com/USUARIO/bia-ui-registry/main/src/components/ui/button.tsx",
+      "url": "https://raw.githubusercontent.com/danielaserrano-bia/bia-ui-registry/main/src/components/ui/button.tsx",
       "target": "src/components/ui/button.tsx"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/USUARIO/bia-ui-registry/main/src/lib/utils.ts",
-      "target": "src/lib/utils.ts"
     }
   ],
-  "dependencies": [
-    "@radix-ui/react-slot",
-    "class-variance-authority",
-    "clsx",
-    "tailwind-merge"
-  ]
+  "dependencies": []
 }
